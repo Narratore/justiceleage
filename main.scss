@@ -1,0 +1,14 @@
+$color: #3bbfce;
+
+@mixin button($color){
+
+background-color: $color;
+border: none;
+color: blue;
+padding: 10px 5px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 10px;
+
+}
